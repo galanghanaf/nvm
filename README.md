@@ -13,11 +13,11 @@ Berikut ini merupakan script yang digunakan untuk menginstall nvm dan juga dapat
 Sumber: https://github.com/nvm-sh/nvm
 
 ```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
 
 ```
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
 
 Setelah proses instalasi atau update selesai, silahkan reboot komputer anda.
