@@ -7,7 +7,7 @@ NVM merupakan singkatan dari Node Version Manager. Menurut Petani Kode, NVM adal
 # Cara Menginstal NVM
 
 ### Install & Update Script
-
+## Linux
 Berikut ini merupakan script yang digunakan untuk menginstall nvm dan juga dapat digunakan untuk mengupdate versi nvm.
 
 Sumber: https://github.com/nvm-sh/nvm
@@ -21,6 +21,10 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
 
 Setelah proses instalasi atau update selesai, silahkan reboot komputer anda.
+
+## Windows
+
+https://github.com/coreybutler/nvm-windows
 
 ### Mengecek versi NVM
 
